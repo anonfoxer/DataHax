@@ -1,0 +1,1 @@
+effect give @e glowing 99999 1 true

@@ -1,0 +1,6 @@
+tellraw @s ["",{"text":"[DataHax v0.2.0]","color":"aqua","bold":true},{"text":" Click on an option to run it.","color":"light_purple","bold":false}]
+tellraw @s [{"text":"----->","color":"black","bold":true},{"text":" [Page 2]","color":"light_purple","bold":true}]
+tellraw @s ["",{"text":"[Recipies]","color":"white","bold":true},{"text":" - [Run] - Unlocks all crafting book recipies","color":"green","bold":false,"clickEvent":{"action":"run_command","value":"/function anon:recipies"}}]
+tellraw @s ["",{"text":"[EntityTP]","color":"white","bold":true},{"text":" - [Run] - Teleports all entities to your crosshair.","color":"green","bold":false,"clickEvent":{"action":"run_command","value":"/function anon:allent"}}]
+tellraw @s ["",{"text":"[Page 1]","color":"white","bold":true},{"text":" - [Page 1] - Go to the first menu page","color":"red","bold":false,"clickEvent":{"action":"run_command","value":"/function anon:menu"}}]
+tellraw @s [{"text":"----->","color":"black","bold":true},{"text":" ","color":"light_purple","bold":true}]

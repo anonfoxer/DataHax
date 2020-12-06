@@ -1,0 +1,2 @@
+give @s minecraft:diamond_boots{display:{Name:'[{"text":"DataHax Speed Boots"}]',Lore:['[{"text":"Spawned in with DataHax"}]']},AttributeModifiers:[{AttributeName:"generic.movement_speed",Name:"IM FAST AS FUCK BOY",Slot:"feet",Amount:20,Operation:2,UUID:[I;1058844301,1018154783,1007883972,1806836125]}]} 1
+say Given player speed boots.
