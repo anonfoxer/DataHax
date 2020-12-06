@@ -2,6 +2,7 @@
 Hacky tweaks for singleplayer vanilla Minecraft.
 Currently working on 1.16.x.
 
+# I messed up the old repo and so i made a new one, deal with it, I know its annoying but Im very dumb.
 
 # Features as of v0.2.0
 - Nice chat based GUI system!
